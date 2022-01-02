@@ -21,3 +21,9 @@ p {
     font-size: 22px;
     
 }
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 18px;
+}
