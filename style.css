@@ -6,3 +6,9 @@ div{
     align-items: center;
     font: bold;
 }
+
+.main {
+    text-align: center;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
