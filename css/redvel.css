@@ -3,3 +3,11 @@
     font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.redv1 {
+    width: 1000px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
