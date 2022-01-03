@@ -13,6 +13,11 @@
     display: block;
 }
 
+p {
+    text-align: center;
+    font-size: 22px;
+}
+
 .body, 
 .list1,
 .list2,
