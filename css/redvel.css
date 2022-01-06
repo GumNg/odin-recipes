@@ -12,6 +12,16 @@
     display: block;
 }
 
+.redv2,
+.redv3,
+.redv4 {
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 .main,
 p,
 .list1,
