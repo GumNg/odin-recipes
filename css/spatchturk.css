@@ -13,6 +13,16 @@
     display: block;
 }
 
+.prep,
+.cook,
+.carv {
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 p {
     text-align: center;
     font-size: 22px;
