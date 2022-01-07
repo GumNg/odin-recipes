@@ -48,3 +48,7 @@ ol {
     text-align: center;
     list-style-position: inside;
 }
+
+li {
+    margin: 20px 0;
+}
